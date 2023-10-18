@@ -1,0 +1,32 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bxs-key"
+    },
+    {
+        "display_name": "Product",
+        "route": "/product",
+        "icon": "bx bx-package"
+    },
+    {
+        "display_name": "Customers",
+        "route": "/customers",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "Income",
+        "route": "/income",
+        "icon": "bx bx-cart"
+    },
+    {
+        "display_name": "Promote",
+        "route": "/promote",
+        "icon": "bx bx-bar-chart-alt"
+    },
+    {
+        "display_name": "Help",
+        "route": "/help",
+        "icon": "bx bx-help-circle"
+    }
+]

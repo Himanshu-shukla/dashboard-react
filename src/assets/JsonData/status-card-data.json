@@ -1,0 +1,30 @@
+[
+    {
+        "icon": "bx bx-shopping-bag",
+        "count": "$198k",
+        "title": "Earning",
+        "text": "37.8% this month",
+        "trend":"increase"
+    },
+    {
+        "icon": "bx bx-cart",
+        "count": "$2.4k",
+        "title": "Orders",
+        "text": "2% this month",
+        "trend":"decrease"
+    },
+    {
+        "icon": "bx bx-dollar-circle",
+        "count": "$2.4k",
+        "title": "Balance", 
+        "text": "2% this month",
+        "trend":"decrease"
+    },
+    {
+        "icon": "bx bx-receipt",
+        "count": "$89k",
+        "title": "Total Sales",
+        "text": "11% this week",
+        "trend":"increase"
+    }
+]
